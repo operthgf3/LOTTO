@@ -99,7 +99,7 @@
     event.preventDefault()
 
     if (!!end) {
-      return
+      returnV
     }
 
     const inputNumber = $input.value
